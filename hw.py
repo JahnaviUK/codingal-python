@@ -1,1 +1,7 @@
-print()
+print(my name is jahnavi)
+print(i am 11 years old)
+print(i have a golden retriever named momo)
+print(i consider momo as my brother)
+print(my favourite game is roblox and in roblox my favourit game is DTI)
+print(my favourite color is black)
+print(my favourite k-pop group is straykids and blackpink)
