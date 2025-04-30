@@ -1,0 +1,13 @@
+print ("birthdays of five friends\n")
+
+# storing birthdays in variables and printing them
+a = "23/7/13"
+print("\nlisa -",a)
+b = "16/5/95"
+print("\njisoo -",b)
+c = "13/2/92"
+print("\njennie -",c)
+d = "12/2/92"
+print("\nrose -",d)
+e = "18/4/96"
+print("\nfelix -",e)
