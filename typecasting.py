@@ -19,3 +19,4 @@ print("datatype of age is:",type(age))
 weight = int (weight)
 print(weight)
 print("datatype of weight is:",type(weight))
+
