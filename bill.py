@@ -8,8 +8,8 @@ paid = float(input("Enter amount paid by customer: ₹"))
 due_amount = calculate_due_amount(total, paid)
 
 if due_amount > 0:
-    print("The customer still owes ₹{due_amount:.2f}.")
+    print("The customer still owes ₹dueamount:.",due_amount)
 elif due_amount < 0:
-    print("Extra payment of ₹{-due_amount:.2f} received. Please return the change.")
+    print("Extra payment of ", due_amount," received. Please return the change.")
 else:
     print("The bill is fully paid. No due amount.")
