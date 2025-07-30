@@ -1,0 +1,17 @@
+set1 = {"green","blue"}
+set2 = {"blue","yellow"}
+print("original set elements")
+print(set1)
+print(set2)
+print("intersection of two sets")
+set3 = set1.intersection(set2)
+print(set3)
+print("union of two sets")
+set4 = set1.union(set2)
+print(set4)
+print("difference of two sets")
+set5 = set1.difference(set2)
+print(set5)
+print("symmetric_difference of two sets")
+set6 = set1.symmetric_difference(set2)
+print(set6)
